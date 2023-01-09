@@ -1,2 +1,4 @@
 1672173998.049831s 1 https://dandiarchive.s3.amazonaws.com/zarr/1844b13e-ef11-4413-a3ca-d003bfab7df9/0/0/0/3/13/32?versionId=6tnX3_SEpH9J0lAvpNM1YBgeIc87k1_R
 1672173998.330029s 1 https://api.dandiarchive.org/api/zarr/1844b13e-ef11-4413-a3ca-d003bfab7df9.zarr/0/0/0/3/13/32
+1673193915.844862s 1 https://dandiarchive.s3.amazonaws.com/zarr/1844b13e-ef11-4413-a3ca-d003bfab7df9/0/0/0/3/13/32?versionId=ZSrFACTDc3jLlBULdyCyFANJQ9xMH33s
+1673193915.85653s 1 https://api.dandiarchive.org/api/zarr/1844b13e-ef11-4413-a3ca-d003bfab7df9/files?prefix=0%2F0%2F0%2F3%2F13%2F32&download=true
